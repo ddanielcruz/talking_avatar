@@ -22,7 +22,7 @@ import * as THREE from 'three'
 import axios from 'axios'
 const _ = require('lodash')
 
-const host = 'http://localhost:5000'
+const host = 'http://localhost:5001'
 
 function Avatar({
   avatar_url,
